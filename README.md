@@ -114,10 +114,3 @@ PROJECT STRUCTURE
 └── requirements.txt     # Alternative dependency list
 ```
 
----
-
-NOTES
-
-- First scrape takes 15-20 seconds (good ninjas are patient)
-- Reddit scraping uses real browser emulation via MCP
-- Keep .env file secret (ninjas never reveal their tools)
